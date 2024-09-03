@@ -48,5 +48,9 @@ https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview?
 
 https://github.com/dotnet/aspire
 
-## 11. 
+## 11. Demystify cloud-native development with .NET Aspire
+
+https://build.microsoft.com/en-US/sessions/1879189b-070b-4dfa-8c3b-8681e5442863
+
+## 12. 
 
