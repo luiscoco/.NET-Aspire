@@ -40,3 +40,13 @@ https://learn.microsoft.com/en-us/dotnet/aspire/get-started/build-your-first-asp
 
 https://learn.microsoft.com/en-us/dotnet/aspire/get-started/add-aspire-existing-app?tabs=windows&pivots=visual-studio
 
+## 9. .NET Aspire dashboard overview
+
+https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview?tabs=bash
+
+## 10. .NET Aspire Github
+
+https://github.com/dotnet/aspire
+
+## 11. 
+
