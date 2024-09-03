@@ -62,7 +62,4 @@ https://github.com/dotnet/eshop
 
 
 
-https://github.com/user-attachments/assets/524e2b35-1ec4-42d0-9a25-7a3c60f5231e
-
-
 
