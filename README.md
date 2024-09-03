@@ -56,5 +56,9 @@ https://build.microsoft.com/en-US/sessions/1879189b-070b-4dfa-8c3b-8681e5442863
 
 https://learn.microsoft.com/en-us/samples/browse/?expanded=dotnet&terms=aspire
 
+## 13. eShop sample
+
+https://github.com/dotnet/eshop
+
 
 
