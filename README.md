@@ -20,3 +20,23 @@ https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
 
 https://devblogs.microsoft.com/dotnet/category/dotnet-aspire/
 
+## 4. .NET Aspire Documentation
+
+https://learn.microsoft.com/en-us/dotnet/aspire/
+
+## 5. Get started building cloud native apps with .NET Aspire
+
+https://github.com/Azure-Samples/Build2024-eShopLite-Aspire-Lab
+
+## 6. .NET Aspire overview
+
+https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview
+
+## 7. Quickstart: Build your first .NET Aspire project
+
+https://learn.microsoft.com/en-us/dotnet/aspire/get-started/build-your-first-aspire-app?tabs=visual-studio&pivots=visual-studio
+
+## 8. Tutorial: Add .NET Aspire to an existing .NET app
+
+https://learn.microsoft.com/en-us/dotnet/aspire/get-started/add-aspire-existing-app?tabs=windows&pivots=visual-studio
+
